@@ -7,11 +7,11 @@ This repository contains all the tasks that I completed as part of my Digital Li
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Student Details...
-Name: Bhumika Aswal
-Registration Number: 25BCE10365
-Course: Digital Literacy
-Branch: B.Tech (CSE Core)
-Year: 1st Year
+Name: Bhumika Aswal  
+Registration Number: 25BCE10365  
+Course: Digital Literacy  
+Branch: B.Tech (CSE Core)  
+Year: 1st Year  
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Project Links-
