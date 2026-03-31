@@ -1,25 +1,25 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Case Study: Cyberbullying
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Cyberbullying is when someone is targeted or harassed using online platforms like Instagram, WhatsApp, or other social media apps.
 
+Cyberbullying is a type of online harassment where a person is targeted using social media, messaging apps, or other digital platforms. It can include sending
 
-It can include things like posting rude comments, spreading rumours, or sharing someone’s photos without asking them.
+hurtful messages, spreading rumors, sharing private information, or making fun of someone publicly.
 
-For example, a student might post something online and a few people start making fun of it in the comments. 
+A common way this happens is step-by-step. First, someone may start by posting a joke or comment about a person. Then others join in and it slowly turns into 
 
-After that, more people join in and it kind of turns into regular trolling.
+repeated negative messages or memes. In some cases, fake accounts are created to anonymously target the victim. The content may get shared multiple times, making it
 
+difficult to control. Over time, the situation becomes more serious and continuous.
 
-Sometimes fake accounts are also used just to send messages or tease that person again and again. This can keep going for quite some time.
+Usually, students and teenagers are the most common targets because they are very active on social media. Sometimes even small misunderstandings or personal 
 
-Usually, teenagers and college students are more likely to face this because they are active on social media most of the time. 
+conflicts can lead to this kind of behavior.
 
-Also, people who don’t respond back or are a bit quiet are often easier targets.
+The consequences of cyberbullying can be serious. It can affect a person’s mental health, causing stress, anxiety, or loss of confidence. In extreme cases, it can
 
+also affect academic performance and social life. Since it happens online, it can continue anytime and reach a larger audience.
 
-The effects are not small. The person can feel stressed, lose confidence, and may even stop using social media or talking to others. 
-
-It can also affect their studies in some cases.
+This shows that cyberbullying is not just a small issue but something that needs to be taken seriously and handled responsibly.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
