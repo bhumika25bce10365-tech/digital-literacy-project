@@ -1,11 +1,15 @@
+---------------------------------------------------------------------------------------------------
 # Social Media Do’s and Don’ts Checklist
+---------------------------------------------------------------------------------------------------- 
 
 ## Do’s
-- Think before posting anything online
-- Use privacy settings to keep your account safe
-- Share information only if you are sure it is correct
-- Be respectful while interacting with others
-- Try to keep your profile clean and somewhat professional
+- Think before posting anything online.
+- Use privacy settings to keep your account safe.
+- Share information only if you are sure it is correct.
+- Be respectful while interacting with others.
+- Try to keep your profile clean and somewhat professional.
+
+----------------------------------------------------------------------------------------------------
 
 ## Don’ts
 - Don’t share personal details like phone number, OTP, etc.
@@ -13,3 +17,5 @@
 - Avoid getting into unnecessary online fights or arguments
 - Don’t click on unknown or suspicious links
 - Don’t overshare every detail of your personal life
+
+-----------------------------------------------------------------------------------------------------
