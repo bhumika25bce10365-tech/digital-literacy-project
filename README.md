@@ -35,7 +35,7 @@ HackerRank: https://www.hackerrank.com/profile/bhumikaaswal1303
 In this task, I made an infographic on digital literacy using Canva. I tried to include important points like safe internet usage, basic tools, and online behaviour. It was my first time making something like this, so it took some trial and error.
 
 File:
-task-1-presentation/Digital Literacy for Students.png
+task-1-presentation/Digital Literacy for Students.png   
 LINK- https://canva.link/136opivk2yj0bpq  
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
